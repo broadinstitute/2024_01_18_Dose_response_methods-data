@@ -1,0 +1,4 @@
+[core]
+    remote = s3storage
+['remote "s3storage"']
+    url = s3://imaging-platform/projects/2024_01_18_Dose_response_methods
